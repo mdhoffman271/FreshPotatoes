@@ -1,0 +1,16 @@
+.fixed-table-layout {
+  table-layout: fixed;
+}
+
+.margin-top-6 {
+  margin-top: 11%
+}
+
+.margin-bottom-6 {
+  margin-bottom: 11%
+}
+
+table.rating thead tr th:not(:first-child),
+table.rating tbody tr td:not(:first-child) {
+  text-align: center;
+}
